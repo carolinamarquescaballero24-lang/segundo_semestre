@@ -4,4 +4,4 @@ def numero(n):
 def numero_entero(num_1):
     num_1= float(input("ingrese su numero:"))
     return num_1 >0
-#estube en el baño
+#lol que mal
