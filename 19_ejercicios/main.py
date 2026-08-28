@@ -11,4 +11,4 @@ print(numero(0))
 print(numero_entero(0))
 
 from logica import mayor
-print(mayor(0)(0)(0))
+print(mayor(0,0,0))
