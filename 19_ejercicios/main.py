@@ -12,3 +12,6 @@ print(numero_entero(0))
 
 from logica import mayor
 print(mayor(0,0,0))
+
+from evaluador import nota 
+print(nota(0))
